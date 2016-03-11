@@ -1,0 +1,15 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "A proxy server ad echo server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0",
+    "yargs": "^3.32.0"
+  }
+}
