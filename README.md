@@ -119,3 +119,7 @@ The follow http header(s) are supported:
 ##### `x-destination-url`
 
 Specify the destination url on a per request basis. Overrides and follows the same format as the `--url` argument.
+
+##### `--loglevel`
+
+Specify the loglevel, eg: 'info', 'debug', 'err'. Only output logs greater than or equal to the specified level.
