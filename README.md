@@ -23,6 +23,9 @@ Walkthrough Gif:
 ![Video Walkthrough](walkthrough.gif)
 
 
+Javascripting Screenshot
+![javascripting](https://raw.githubusercontent.com/chenxi969/prework-nodejs/master/screenshot/javascripting.png)
+
 ## Starting the Server
 
 ```bash
